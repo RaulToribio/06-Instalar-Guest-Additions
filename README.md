@@ -165,10 +165,6 @@ Tendremos acceso a nuestro escritorio.
 
 Nuestro sistema operativo estará listo para adaptarse a la escala de una ventana maximizada o cualquier otro tamaño que tome la ventana de VirtualBox.
 
-# Evidencias
-
-![https://raw.githubusercontent.com/RaulToribio/06-Instalar-Guest-Additions/main/Im%C3%A1genes/Instalar%20Guest%20Additions%20(32).png](https://raw.githubusercontent.com/RaulToribio/06-Instalar-Guest-Additions/main/Im%C3%A1genes/Instalar%20Guest%20Additions%20(32).png)
-
 # Créditos
 
 > [José Raúl Toribio Gabriel](https://github.com/RaulToribio)
